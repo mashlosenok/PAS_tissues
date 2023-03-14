@@ -2,215 +2,246 @@ track Adipose
 bigDataUrl Adipose.bb
 shortLabel Adipose 
 longLabel GTEX Adipose pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Adrenal_Gland
 bigDataUrl Adrenal_Gland.bb
 shortLabel Adrenal_Gland 
 longLabel GTEX Adrenal_Gland pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Artery
 bigDataUrl Artery.bb
 shortLabel Artery 
 longLabel GTEX Artery pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Bladder
 bigDataUrl Bladder.bb
 shortLabel Bladder 
 longLabel GTEX Bladder pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Brain
 bigDataUrl Brain.bb
 shortLabel Brain 
 longLabel GTEX Brain pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Breast
 bigDataUrl Breast.bb
 shortLabel Breast 
 longLabel GTEX Breast pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Cells
 bigDataUrl Cells.bb
 shortLabel Cells 
 longLabel GTEX Cells pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Cervix
 bigDataUrl Cervix.bb
 shortLabel Cervix 
 longLabel GTEX Cervix pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Colon
 bigDataUrl Colon.bb
 shortLabel Colon 
 longLabel GTEX Colon pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Esophagus
 bigDataUrl Esophagus.bb
 shortLabel Esophagus 
 longLabel GTEX Esophagus pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Fallopian_Tube
 bigDataUrl Fallopian_Tube.bb
 shortLabel Fallopian_Tube 
 longLabel GTEX Fallopian_Tube pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Heart
 bigDataUrl Heart.bb
 shortLabel Heart 
 longLabel GTEX Heart pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Kidney
 bigDataUrl Kidney.bb
 shortLabel Kidney 
 longLabel GTEX Kidney pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Liver
 bigDataUrl Liver.bb
 shortLabel Liver 
 longLabel GTEX Liver pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Lung
 bigDataUrl Lung.bb
 shortLabel Lung 
 longLabel GTEX Lung pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Minor_Salivary_Gland
 bigDataUrl Minor_Salivary_Gland.bb
 shortLabel Minor_Salivary_Gland 
 longLabel GTEX Minor_Salivary_Gland pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Muscle
 bigDataUrl Muscle.bb
 shortLabel Muscle 
 longLabel GTEX Muscle pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Nerve
 bigDataUrl Nerve.bb
 shortLabel Nerve 
 longLabel GTEX Nerve pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Ovary
 bigDataUrl Ovary.bb
 shortLabel Ovary 
 longLabel GTEX Ovary pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Pancreas
 bigDataUrl Pancreas.bb
 shortLabel Pancreas 
 longLabel GTEX Pancreas pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Pituitary
 bigDataUrl Pituitary.bb
 shortLabel Pituitary 
 longLabel GTEX Pituitary pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Prostate
 bigDataUrl Prostate.bb
 shortLabel Prostate 
 longLabel GTEX Prostate pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Skin
 bigDataUrl Skin.bb
 shortLabel Skin 
 longLabel GTEX Skin pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Small_Intestine
 bigDataUrl Small_Intestine.bb
 shortLabel Small_Intestine 
 longLabel GTEX Small_Intestine pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Spleen
 bigDataUrl Spleen.bb
 shortLabel Spleen 
 longLabel GTEX Spleen pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Stomach
 bigDataUrl Stomach.bb
 shortLabel Stomach 
 longLabel GTEX Stomach pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Testis
 bigDataUrl Testis.bb
 shortLabel Testis 
 longLabel GTEX Testis pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Thyroid
 bigDataUrl Thyroid.bb
 shortLabel Thyroid 
 longLabel GTEX Thyroid pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Uterus
 bigDataUrl Uterus.bb
 shortLabel Uterus 
 longLabel GTEX Uterus pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Vagina
 bigDataUrl Vagina.bb
 shortLabel Vagina 
 longLabel GTEX Vagina pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
 
 track Whole_Blood
 bigDataUrl Whole_Blood.bb
 shortLabel Whole_Blood 
 longLabel GTEX Whole_Blood pAread count per 100bil
-type bigBed
+type bigBed 6
 scoreFilter 20
+spectrum on
