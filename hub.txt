@@ -1,0 +1,6 @@
+
+hub PAS_tissues
+shortLabel PAS_GTEX
+longLabel PAS GTEX per tissue pAread counts
+genomesFile genomes.txt
+email mariia.vlasenok@skoltech.ru
