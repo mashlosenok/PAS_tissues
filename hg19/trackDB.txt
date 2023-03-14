@@ -1,0 +1,5 @@
+track Adipose
+bigDataUrl Adipose.bb
+shortLabel Adipose 
+longLabel GTEX Adipose pAread count per 100bil
+type bigBed
