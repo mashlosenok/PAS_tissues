@@ -3,18 +3,21 @@ bigDataUrl Adipose.bb
 shortLabel Adipose 
 longLabel GTEX Adipose pAread count per 100bil
 type bigBed
+scoreFilter 20
 
 track Adrenal_Gland
 bigDataUrl Adrenal_Gland.bb
 shortLabel Adrenal_Gland 
 longLabel GTEX Adrenal_Gland pAread count per 100bil
 type bigBed
+scoreFilter 20
 
 track Artery
 bigDataUrl Artery.bb
 shortLabel Artery 
 longLabel GTEX Artery pAread count per 100bil
 type bigBed
+scoreFilter 20
 
 track Bladder
 bigDataUrl Bladder.bb
